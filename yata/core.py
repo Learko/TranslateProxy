@@ -6,7 +6,6 @@
 
 import aiohttp
 import json
-# import requests
 
 from .helpers import *
 
